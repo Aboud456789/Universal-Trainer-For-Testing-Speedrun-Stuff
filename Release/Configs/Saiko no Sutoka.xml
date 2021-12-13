@@ -1,8 +1,8 @@
 <Config>
-	<ProcessName>Zombi</ProcessName>
+	<ProcessName>Saiko no Sutoka</ProcessName>
 	<Position>
 		<Pointer>0x00855364, 0x4, 0x74, 0x80</Pointer>
-		<XZY>false</XZY>
+		<XZY>True</XZY>
 	</Position>
 	<SinAlpha Inverted="False">0x00855364, 0x4, 0x74, 0x10</SinAlpha>
 	<CosAlpha Inverted="False">0x00855364, 0x4, 0x74, 0x14</CosAlpha>
